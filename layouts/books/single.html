@@ -1,0 +1,25 @@
+{{ partial "header.html" . }}
+<div class="container book-page">
+  <div class="gr-3 gr-3@tablet gr-12@mobile">
+    {{ range .Params.covers }}
+    {{if .fullsize }}
+    <a href="{{.fullsize}}">
+    {{end}}
+      <img src="{{.thumbnail}}"/>
+    {{if .fullsize}}
+    </a>
+    {{end}}
+    {{end}}
+  </div>
+  <div class="gr-9 gr-9@tablet gr-12@mobile">
+  <div class="breadcrumbs">
+    <a href="/books/">books</a> &raquo; {{ .Title }}
+  </div>
+  <h1>{{ .Title }}</h1>
+  {{ with .Params.subtitle }}
+  <h2 class="subtitle">{{.}}</h2>
+  {{ end }}
+  {{.Content}}
+  </div>
+</div>
+{{ partial "footer.html" . }}

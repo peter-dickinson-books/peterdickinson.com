@@ -1,0 +1,75 @@
+html {
+   margin:0;
+   padding:0;
+   height:100%;
+   font-size: $html-font-size;
+   line-height: $html-line-height;
+}
+
+body {
+  min-height: 100%;
+  position: relative;
+  margin:0;
+  padding:0;
+
+  background: $bg-color;
+  color: $body-font-color;
+  font-family: $body-font-family;
+  font-size: $font-size;
+}
+
+section.content {
+  max-width: 100rem;
+  margin: 0 auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 2rem;
+  padding-bottom: 14rem;
+}
+
+a {
+  color: $link-color;
+
+  &:focus,
+  &:hover,
+  &.active {
+    color: $link-color-dark;
+  }
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+h1 {
+  font-size: 2.6rem;
+}
+
+h2 {
+  font-size: 2.2rem;
+}
+
+h3 {
+  font-size: 1.8rem;
+}
+
+h4 {
+  font-size: 1.4rem;
+}
+
+h5 {
+  font-size: 1.2rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  color: $primary-color;
+}
+
+h2.subtitle {
+  color: $dark-color;
+}

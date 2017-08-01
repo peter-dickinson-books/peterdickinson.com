@@ -1,0 +1,6 @@
+yarn-error.log
+public/
+node_modules/
+static/fonts/
+static/css/
+

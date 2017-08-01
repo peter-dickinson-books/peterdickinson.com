@@ -1,0 +1,19 @@
+@import "../node_modules/gridle/sass/gridle/gridle";
+
+@include gridle_setup( (
+    context : 12,
+    gutter-width : 20px,
+) );
+
+@include gridle_register_state ( mobile , (
+    max-width : 480px 
+) );
+
+@include gridle_register_state ( tablet , (
+    min-width : 481px,
+    max-width : 1024px
+) ) ;
+
+@include gridle_register_state ( landscape, (
+    query : "(orientation : landscape)"
+) );

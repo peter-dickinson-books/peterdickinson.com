@@ -1,0 +1,3 @@
+<div class="gr-{{ .Get "desktop" }}{{with .Get "tablet"}} gr-{{.}}@tablet{{ end }}{{with .Get "mobile"}} gr-{{.}}@mobile{{ end }}">
+  {{ .Inner }}
+</div>

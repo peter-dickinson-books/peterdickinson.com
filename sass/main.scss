@@ -1,0 +1,43 @@
+$html-font-size: 10px;
+$html-line-height: 1.42;
+
+$primary-color: #012541;
+$dark-color: #454d5d;
+$light-color: #fff;
+
+$primary-color-dark: darken($primary-color, 3%);
+$primary-color-light: lighten($primary-color, 3%);
+$secondary-color: lighten($primary-color, 40%);
+$secondary-color-dark: darken($secondary-color, 3%);
+$secondary-color-light: lighten($secondary-color, 3%);
+$link-color: $primary-color;
+$link-color-dark: darken($link-color, 10%);
+
+$bg-color: #fff;
+$bg-color-light: #fff;
+
+$body-font-color: $dark-color;
+$base-font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto;
+$fallback-font-family: "Helvetica Neue", sans-serif;
+$cjk-font-family: $base-font-family, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Hiragino Kaku Gothic Pro", Meiryo, "Malgun Gothic", $fallback-font-family;
+$body-font-family: $base-font-family, $fallback-font-family;
+$font-size: 1.4rem;
+$font-size-sm: 1.2rem;
+$font-size-lg: 1.6rem;
+
+$quote-font-size: 2rem;
+
+$border-radius: .2rem;
+$border-width: .1rem;
+
+@import 'settings';
+@include gridle_generate_classes ( );
+
+@import 'reset';
+@import 'mixins';
+@import 'header';
+@import 'footer';
+@import 'button';
+@import 'quote';
+@import 'covers';
+@import 'book';

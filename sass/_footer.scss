@@ -1,0 +1,15 @@
+footer {
+  background-color: $primary-color;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: #FFFFFF;
+  text-align: center;
+  min-height: 10rem;
+  padding-top: 2rem;
+
+  i.fa {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "peterdickinson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "font-awesome": "^4.7.0",
+    "gridle": "^2.0.48",
+    "gulp": "^3.9.1",
+    "gulp-csso": "^3.0.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-touch": "^1.0.1",
+    "merge-stream": "^1.0.1"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch"
+  }
+}
