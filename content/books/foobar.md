@@ -14,7 +14,7 @@ title: foobar
 type: books
 ---
 
-### About the book
+### About the book FOOOBAR
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
 malesuada rhoncus felis quis rutrum. Phasellus lacinia urna nunc, vitae tempor

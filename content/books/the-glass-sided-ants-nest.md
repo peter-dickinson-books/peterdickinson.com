@@ -2,13 +2,13 @@
 categories:
 - fiction
 covers:
-- thumbnail: /images/covers/Arrow-Ants-nest1-214x350.jpg
-- thumbnail: /images/covers/Dickinson_GlassSidedAntsNest.jpg
 - thumbnail: /images/covers/Glass-Sided-Ants-Nest-jacket1.jpg
 - thumbnail: /images/covers/IPL-Ants-nest-2-231x350.jpg
 - thumbnail: /images/covers/Penguin-crime-Ants-nest-215x350.jpg
 - thumbnail: /images/covers/Skin-Deep-FM-pb-757x1024.jpg
 - thumbnail: /images/covers/Skin-Deep-jacket-232x350.jpg
+- thumbnail: /images/covers/Arrow-Ants-nest1-214x350.jpg
+- thumbnail: /images/covers/Dickinson_GlassSidedAntsNest.jpg
 date: 2017-08-01T03:44:35+01:00
 first_published: 1968
 subtitle: "The first of six novels with Detective James Pibble"
@@ -90,7 +90,6 @@ wit...give his novel real distinction.
 
 ### Publishers
 
-Arrow, UK - 1986
 
 Hodder & Stoughton, UK - 1968
 
@@ -101,6 +100,8 @@ Panther, UK - 1969
 Penguin, US - 1981
 
 Penguin, UK - 1981
+
+Arrow, UK - 1986
 
 International Polygonics, UK - 1991
 
