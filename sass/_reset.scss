@@ -73,3 +73,15 @@ h5 {
 h2.subtitle {
   color: $dark-color;
 }
+
+pre {
+  text-align: center;
+
+  code {
+    font-size: $font-size;
+    line-height: $html-line-height;
+    font-family: $body-font-family;
+    font-style: italic;
+  }
+
+}

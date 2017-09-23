@@ -1,20 +1,17 @@
 {{ partial "header.html" . }}
 <div class="container book-page">
-  <div class="gr-2 gr-3@tablet gr-12@mobile">
+  <div class="gr-2 gr-3@tablet gr-12@mobile covers">
     {{ range .Params.covers }}
     {{if .fullsize }}
     <a href="{{.fullsize}}">
     {{end}}
-      <img src="{{.thumbnail}}"/>
+      <img src="{{.thumbnail}}" class="cover"/>
     {{if .fullsize}}
     </a>
     {{end}}
     {{end}}
   </div>
   <div class="gr-10 gr-9@tablet gr-12@mobile">
-  <div class="breadcrumbs">
-    <a href="/books/">books</a> &raquo; {{ .Title }}
-  </div>
   <h1>{{ .Title }}</h1>
   {{ with .Params.subtitle }}
   <h2 class="subtitle">{{.}}</h2>

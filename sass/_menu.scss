@@ -1,0 +1,28 @@
+ul.side-menu {
+  font-size: 1.7rem;
+  list-style: none;
+  padding-left: 0;
+
+  li {
+    min-height: 2.8rem;
+    border-top: 1px #999 dotted;
+    vertical-align: middle;
+    padding-top: 0.8rem;
+
+    a {
+      text-decoration: none;
+      text-transform: uppercase;
+    }
+
+    ul.sub-menu {
+      padding-left: 0;
+      list-style: none;
+
+      li {
+        a {
+          text-transform: capitalize;
+        }
+      }
+    }
+  }
+}

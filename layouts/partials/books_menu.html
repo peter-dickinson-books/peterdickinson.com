@@ -1,4 +1,4 @@
-<ul>
+<ul class="side-menu">
   <li><a href="/books/">ALL BOOKS</a></li>
   {{ range $name, $taxonomy := .Site.Taxonomies.categories }}
     <li><a href="{{ "/categories/" | relLangURL }}{{ $name | urlize }}">{{ $name }}</a></li>

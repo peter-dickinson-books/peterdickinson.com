@@ -9,11 +9,6 @@ gulp.task('js', function(){
     .pipe(gulp.dest('./static/js'))
 });
 
-gulp.task('spectre', function(){
-  return gulp.src('node_modules/spectre.css/dist/spectre.min.css')
-    .pipe(gulp.dest('./static/css'))
-});
-
 gulp.task('fontawesome', function() {
   var css = gulp.src('node_modules/font-awesome/css/font-awesome.min.css')
     .pipe(gulp.dest('./static/css'));
@@ -22,7 +17,7 @@ gulp.task('fontawesome', function() {
   return merge(css, fonts)
 });
 
-gulp.task('sass', ['spectre'], function(){
+gulp.task('sass', function(){
   touch('./sass/main.scss');
   return gulp.src('./sass/**/*.scss')
     .pipe(sass().on('error', sass.logError))
@@ -30,7 +25,7 @@ gulp.task('sass', ['spectre'], function(){
     .pipe(gulp.dest('./static/css'));
 });
 
-gulp.task('css', ['sass', 'spectre', 'fontawesome'])
+gulp.task('css', ['sass', 'fontawesome'])
 
 gulp.task('watch', function() {
     gulp.watch('./sass/**/*.scss', ['sass']);

@@ -1,4 +1,4 @@
-$html-font-size: 10px;
+$html-font-size: 12px;
 $html-line-height: 1.42;
 
 $primary-color: #012541;
@@ -25,7 +25,7 @@ $font-size: 1.4rem;
 $font-size-sm: 1.2rem;
 $font-size-lg: 1.6rem;
 
-$quote-font-size: 2rem;
+$quote-font-size: 1.6rem;
 
 $border-radius: .2rem;
 $border-width: .1rem;
@@ -37,7 +37,9 @@ $border-width: .1rem;
 @import 'mixins';
 @import 'header';
 @import 'footer';
+@import 'menu';
 @import 'button';
 @import 'quote';
 @import 'covers';
+@import 'homepage';
 @import 'book';

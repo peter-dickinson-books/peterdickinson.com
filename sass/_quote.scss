@@ -1,4 +1,10 @@
 q {
   font-size: $quote-font-size;
+  font-style: italic;
   display: block;
+}
+
+cite {
+  font-style: normal;
+  margin-bottom: 1.4rem;
 }

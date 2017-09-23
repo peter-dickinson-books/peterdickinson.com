@@ -9,4 +9,15 @@ section.content {
       margin-top: 0;
     }
   }
+  div.book-page {
+    div.covers {
+      margin-top: 2.5rem;
+
+      @include gridle_state( mobile ) {
+        img.cover {
+              max-width: 7.5rem;
+        }
+      }
+    }
+  }
 }
