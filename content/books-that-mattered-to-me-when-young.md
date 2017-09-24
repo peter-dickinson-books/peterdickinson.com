@@ -28,8 +28,8 @@ which bits to skip.
 Ditto, really, except that it’s a much better book, and you only need to skip
 the first fifty pages. You get Robin Hood as well as the knights in armour.
 
-[The Radium Seekers]
--------------------
+The Radium Seekers
+------------------
 **by Fenton Ash**
 
 This must have been one of my father’s books. I (and my brothers) read it
@@ -44,13 +44,19 @@ birds and terrorise the locals.
 ---------------------
 **by Rider Haggard**
 
-Same sort of thing, but in Africa and with diamonds instead of radium, but one of the great myth-making books, which still affects the way we think about Africa, I’m afraid. The witch Gagool was one of my regular nightmares.
+Same sort of thing, but in Africa and with diamonds instead of radium, but one
+of the great myth-making books, which still affects the way we think about
+Africa, I’m afraid. The witch Gagool was one of my regular nightmares.
 
 [The Jungle Books]
 -----------------
 **by Rudyard Kipling**
 
-Anything by Kipling, in fact. We had a complete run of them, and I read the lot. A truly great writer, despite his hideous opinions. I wouldn’t write the way I do if it weren’t for him.
+Anything by Kipling, in fact. We had a complete run of them, and I read the
+lot. A truly great writer, despite his hideous opinions. I wouldn’t write the
+way I do if it weren’t for him.
 
 [St George for England]: http://www.gutenberg.org/ebooks/34886
 [Ivanhoe]: http://www.gutenberg.org/ebooks/82
+[King Solomon’s Mines]: http://www.gutenberg.org/ebooks/2166
+[The Jungle Books]: http://www.gutenberg.org/ebooks/35997
