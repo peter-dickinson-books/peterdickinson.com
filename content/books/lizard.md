@@ -5,7 +5,7 @@ categories:
 covers:
 - thumbnail: /images/covers/lizard-in-the-cup-uk-1972-hodder-1-thumbnail.jpg
 date: 2017-08-01T03:44:35+01:00
-first_published: 1970
+first_published: 1972
 subtitle: "The fifth of six novels with Detective James Pibble"
 title: The Lizard in the Cup
 type: books
