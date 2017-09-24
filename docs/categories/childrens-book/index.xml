@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Childrens Book on Peter Dickinson Books</title>
-    <link>http://peterdickinson.com/categories/childrens-book/</link>
-    <description>Recent content in Childrens Book on Peter Dickinson Books</description>
+    <title>Children&#39;s Books on Peter Dickinson Books</title>
+    <link>http://peterdickinson.com/categories/childrens-book/index.xml</link>
+    <description>Recent content in Children&#39;s Books on Peter Dickinson Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Aug 2017 01:55:42 +0100</lastBuildDate>
-    
-	<atom:link href="http://peterdickinson.com/categories/childrens-book/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://peterdickinson.com/categories/childrens-book/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Heartsease</title>
@@ -40,7 +37,45 @@ Puffin, UK - 1974</description>
       <pubDate>Tue, 01 Aug 2017 01:55:42 +0100</pubDate>
       
       <guid>http://peterdickinson.com/books/weathermonger/</guid>
-      <description>About the Book In a Britain returned to a medieval way of life following the &amp;ldquo;Changes&amp;rdquo;, which turned people against machines and electricity, Geoffrey, the local Weathermonger (chosen for his ability to summon rain when the farmers need it) and his sister are about to be drowned as &amp;ldquo;witches&amp;rdquo; for breaking the rules and maintaining an outboard engine. Following a thrilling escape to France (which has been unaffected by the Changes which have gripped Britain), Geoffrey and Sally return on a mission to discover the source of The Changes.</description>
+      <description>
+
+&lt;h2 id=&#34;about-the-book&#34;&gt;About the Book&lt;/h2&gt;
+
+&lt;p&gt;In a Britain returned to a medieval way of life following the &amp;ldquo;Changes&amp;rdquo;, which turned people against machines and electricity, Geoffrey, the local Weathermonger (chosen for his ability to summon rain when the farmers need it) and his sister are about to be drowned as &amp;ldquo;witches&amp;rdquo; for breaking the rules and maintaining an outboard engine. Following a thrilling escape to France (which has been unaffected by the Changes which have gripped Britain), Geoffrey and Sally return on a mission to discover the source of The Changes. This was Peter&amp;rsquo;s first children&amp;rsquo;s book.&lt;/p&gt;
+
+&lt;h3 id=&#34;reviews&#34;&gt;Reviews&lt;/h3&gt;
+
+&lt;p&gt;&lt;p&gt;
+&lt;q&gt;A funny, fascinating and, at times, almost breathtaking web of adventure . . A first class, really stylish story.&lt;/q&gt;
+
+&lt;cite&gt;Punch&lt;/cite&gt;
+
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;q&gt;Since the Changes began, machines have been anathema in England except somehow, to Geoffrey Tinker . . . ingeniously conceived and vividly personalized.&lt;/q&gt;
+
+&lt;cite&gt;Kirkus - starred review&lt;/cite&gt;
+
+&lt;/p&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;publishers&#34;&gt;Publishers&lt;/h3&gt;
+
+&lt;p&gt;Gollancz, UK - 1968&lt;/p&gt;
+
+&lt;p&gt;Little Brown, US - 1969&lt;/p&gt;
+
+&lt;p&gt;Puffin Books, UK - 1970&lt;/p&gt;
+
+&lt;p&gt;Harlow Longman, UK - 1971&lt;/p&gt;
+
+&lt;p&gt;Delacorte Press, US - 1986&lt;/p&gt;
+
+&lt;p&gt;Dell, US - 1988&lt;/p&gt;
+
+&lt;p&gt;Collins Voyager, UK - 2003&lt;/p&gt;
+</description>
     </item>
     
   </channel>

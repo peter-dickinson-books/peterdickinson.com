@@ -19,5 +19,12 @@
     </ul>
     {{ end }}
   </li>
-  <li><a href="/faq/">FAQ</a></li>
+  <li>
+    <a href="/faq/">FAQ</a>
+    {{ if eq .Params.parent "faq" }}
+    <ul class="sub-menu">
+      <li><a href="/books-that-mattered-to-me-when-young">Books that Mattered to me When Young</a></li>
+    </ul>
+    {{ end }}
+  </li>
 </ul>
