@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
     <loc>http://peterdickinson.com/books/the-glass-sided-ants-nest/</loc>
@@ -59,7 +60,9 @@
   </url>
   
   <url>
-    <loc>http://peterdickinson.com/faq/</loc>
+    <loc>http://peterdickinson.com/categories/fantasy/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -90,6 +93,11 @@
   
   <url>
     <loc>http://peterdickinson.com/about/quotes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/series/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
