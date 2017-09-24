@@ -1,5 +1,3 @@
 ---
-title: "fiction"
-subtitle: "stranger than..."
+title: "Fiction"
 ---
-HERE IS SOME CONTENT!

@@ -38,5 +38,5 @@ responds with taped recordings of how she saw the same events. In this manner
 they re-tread the maze of high politics, espionage and shady property deals
 and find the answer.
 
-{{< button href="/books/yellow-book" icon="search" text="more info">}} {{< button href="/books/yellow-book#buy" icon="shopping-cart" text="buy now">}}
+{{< button href="/books/yellow-book" icon="search" text="more info">}}
 {{% /grid %}}

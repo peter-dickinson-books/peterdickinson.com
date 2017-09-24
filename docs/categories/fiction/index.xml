@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>fiction on Peter Dickinson Books</title>
+    <title>Fiction on Peter Dickinson Books</title>
     <link>http://peterdickinson.com/categories/fiction/</link>
-    <description>Recent content in fiction on Peter Dickinson Books</description>
+    <description>Recent content in Fiction on Peter Dickinson Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Aug 2017 03:44:35 +0100</lastBuildDate>
@@ -70,6 +70,15 @@ Reviews A literary magician.Sunday TelegraphThis is a bit crazy, harrowingly
       <guid>http://peterdickinson.com/books/sinfulstones/</guid>
       <description>About the book James Pibble has been summoned to a remote Scottish island by his long-dead father&amp;rsquo;s ex-employer, the semi-senile Nobel Prize-winner, Sir Francis Francis. Before long, he finds himself attempting to extract Sir Francis from the grip of a crazed millenarian sect which seems determined to keep him there. It seems they will stop at nothing to make sure he stays. Including murder&amp;hellip;
 Reviews Fantastically inventive…a story full of imaginative detail with a stirring, sardonic end.</description>
+    </item>
+    
+    <item>
+      <title>The Yellow Room Conspiracy</title>
+      <link>http://peterdickinson.com/books/yellowroom/</link>
+      <pubDate>Tue, 01 Aug 2017 03:44:35 +0100</pubDate>
+      
+      <guid>http://peterdickinson.com/books/yellowroom/</guid>
+      <description>About the book Two ex-lovers, he merely getting old, she already slowly dying, hear a radio quiz programme about a political/financial/sexual scandal in which they were both involved at the time of the Suez Crisis. At the end of the first chapter she asks him to tell her how he killed one of the other participants. He replies that he&amp;rsquo;d always imagined she had done it. Who then did?</description>
     </item>
     
   </channel>
