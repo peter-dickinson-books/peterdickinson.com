@@ -1,7 +1,7 @@
 ---
 type: about
 title: "Memories of Peter 3"
-parent: "/about/"
+parent: about
 ---
 
 Memories of Peter (3)

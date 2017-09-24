@@ -1,7 +1,7 @@
 ---
 type: about
 title: "On Writing Novels"
-parent: "/about/"
+parent: writing
 ---
 
 On Writing Novels

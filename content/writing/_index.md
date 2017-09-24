@@ -1,7 +1,7 @@
 ---
 type: about
 title: "About Writing"
-parent: "about"
+parent: writing
 ---
 
 About Writing

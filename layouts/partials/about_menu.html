@@ -1,7 +1,7 @@
 <ul class="side-menu">
   <li>
     <a href="/about/">ABOUT PETER</a>
-    {{ if (or (eq .URL "/about/") (eq .Params.parent "about")) }}
+    {{ if eq .Params.parent "about" }}
     <ul class="sub-menu">
       <li><a href="/about/quotes/">Quotes about Peter</a></li>
       <li><a href="/about/memories-of-peter-1">Memories of Peter 1</a></li>
@@ -12,9 +12,11 @@
   </li>
   <li><a href="/timeline/">TIMELINE</a></li>
 
-  <li><a href="/writing/">ABOUT WRITING</a></li>
-  {{ if (or (eq .URL "/writing/") (eq .Params.parent "writing")) }}
-  <ul class="sub-menu">
-  <li><a href="/writing/on-writing-novels">On Writing Novels</a></li>
-
+  <li><a href="/writing/">ABOUT WRITING</a>
+    {{ if eq .Params.parent "writing" }}
+    <ul class="sub-menu">
+      <li><a href="/writing/on-writing-novels">On Writing Novels</a></li>
+    </ul>
+    {{ end }}
+  </li>
 </ul>

@@ -1,7 +1,7 @@
 ---
 type: about
 title: "Quotes about Peter"
-parent: "/about/"
+parent: about
 ---
 
 Children's Books

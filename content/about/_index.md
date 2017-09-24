@@ -1,7 +1,9 @@
 ---
 type: about
 title: "About Peter"
+parent: about
 ---
+
 
 About Peter
 ===========
