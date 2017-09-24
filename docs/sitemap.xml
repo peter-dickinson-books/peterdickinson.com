@@ -8,6 +8,11 @@
   </url>
   
   <url>
+    <loc>http://peterdickinson.com/books/emmatupper/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/heartsease/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
   </url>
@@ -56,7 +61,12 @@
   
   <url>
     <loc>http://peterdickinson.com/categories/childrens-book/</loc>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/categories/childrens-books/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
