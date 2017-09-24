@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>http://peterdickinson.com/books/devilschildren/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/weathermonger/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
   </url>
@@ -55,6 +60,10 @@
     <loc>http://peterdickinson.com/categories/fantasy/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/faq/</loc>
   </url>
   
   <url>
