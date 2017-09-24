@@ -8,7 +8,7 @@ covers:
 - thumbnail: /images/covers/the-weathermonger-uk-2003-voyager-1-thumbnail.jpg
 date: 2017-08-01T01:55:42+01:00
 first_published: 1968
-subtitle: The first book in The Changes trilogy
+subtitle: "The first book in _The Changes_ trilogy"
 title: The Weathermonger
 type: books
 ---
