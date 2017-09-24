@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Historical on Peter Dickinson Books</title>
+    <link>http://peterdickinson.com/categories/historical/</link>
+    <description>Recent content in Historical on Peter Dickinson Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Aug 2017 01:55:42 +0100</lastBuildDate>
+    
+	<atom:link href="http://peterdickinson.com/categories/historical/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Dancing Bear</title>
+      <link>http://peterdickinson.com/books/dancingbear/</link>
+      <pubDate>Tue, 01 Aug 2017 01:55:42 +0100</pubDate>
+      
+      <guid>http://peterdickinson.com/books/dancingbear/</guid>
+      <description>About the Book Historical. Byzantine slave boy journeys into Hun territory to rescue captured daughter of the house, taking the trained household bear with him to act as a kind of passport (everyone would welcome the entertainment provided by a dancing bear) as he moves from the dangerous complexities of the city into the equally dangerous simplicities of the nomad Huns.
+Author Comment This was the first of my books to evolve from a story I&amp;rsquo;d told my sons to stop them squabbling in the back seat during our weekly commute to and from Hampshire.</description>
+    </item>
+    
+  </channel>
+</rss>
