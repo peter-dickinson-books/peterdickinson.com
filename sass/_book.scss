@@ -21,7 +21,8 @@ section.content {
     }
   }
 
-  div.book-list {
+  div.book-list,
+  div.book-taxonmy {
     div.cover-container {
       @include gridle_state ( mobile ) {
         @include gridle_clear_each( 3, both );
