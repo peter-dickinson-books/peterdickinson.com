@@ -15,10 +15,16 @@ ul.side-menu {
     }
 
     ul.sub-menu {
-      padding-left: 0;
       list-style: none;
+      padding-left: 0;
 
       li {
+        //text-indent: 1rem;
+        &:before {
+          content: "-";
+          //margin-left: -2rem;
+        }
+
         a {
           text-transform: capitalize;
         }
