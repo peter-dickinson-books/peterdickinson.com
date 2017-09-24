@@ -1,6 +1,6 @@
 ---
 categories:
-- children's book
+- children's books
 - fantasy
 covers:
 - thumbnail: /images/covers/the-weathermonger-uk-1968-gollancz-1-thumbnail.jpg

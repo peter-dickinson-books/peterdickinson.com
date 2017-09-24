@@ -1,6 +1,6 @@
 ---
 categories:
-- children's book
+- children's books
 - fantasy
 covers:
 - thumbnail: /images/covers/heartsease-us-1969-atlantic-little-brown-1-thumbnail.jpg

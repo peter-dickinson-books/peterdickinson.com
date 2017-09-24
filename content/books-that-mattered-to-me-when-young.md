@@ -24,6 +24,7 @@ which bits to skip.
 [Ivanhoe]
 --------
 **by Walter Scott**
+
 Ditto, really, except that it’s a much better book, and you only need to skip
 the first fifty pages. You get Robin Hood as well as the knights in armour.
 
@@ -52,3 +53,4 @@ Same sort of thing, but in Africa and with diamonds instead of radium, but one o
 Anything by Kipling, in fact. We had a complete run of them, and I read the lot. A truly great writer, despite his hideous opinions. I wouldn’t write the way I do if it weren’t for him.
 
 [St George for England]: http://www.gutenberg.org/ebooks/34886
+[Ivanhoe]: http://www.gutenberg.org/ebooks/82
