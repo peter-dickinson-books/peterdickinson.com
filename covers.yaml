@@ -1,16 +1,13 @@
-slug_format: "{{ .BookTitle }}-{{ .Country }}-{{ .Year }}-{{ .Version }}-{{ .FormatName }}"
+slug_format: "{{ .BookTitle }}-{{ .Country }}-{{ .Year }}-{{ .Publisher }}-{{ .Version }}-{{ .FormatName }}"
 
 questions:
   BookTitle: Book Title
   Country: Country
   Year: Year
   Version: Version
-
+  Publisher: Publisher
 
 formats:
-  - name: source
-    source: true
-
   - name: large
     max_x: 800
     min_x: 600
@@ -18,6 +15,5 @@ formats:
   - name: thumbnail
     max_x: 250
     min_x: 250
-
 
 destination: ./static/images/covers

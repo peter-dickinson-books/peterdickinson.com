@@ -2,12 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Peter Dickinson Books</title>
-    <link>http://peterdickinson.com/books/index.xml</link>
+    <link>http://peterdickinson.com/books/</link>
     <description>Recent content on Peter Dickinson Books</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Tue, 01 Aug 2017 03:44:35 +0100</lastBuildDate>
-    <atom:link href="http://peterdickinson.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://peterdickinson.com/books/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The Glass-Sided Ants’ Nest (Skin Deep)</title>
@@ -15,153 +17,17 @@
       <pubDate>Tue, 01 Aug 2017 03:44:35 +0100</pubDate>
       
       <guid>http://peterdickinson.com/books/the-glass-sided-ants-nest/</guid>
-      <description>
-
-&lt;h3 id=&#34;about-the-book&#34;&gt;About the book&lt;/h3&gt;
-
-&lt;p&gt;Set in Notting Dale, West London; remnant of &amp;ldquo;primitive&amp;rdquo; New Guinea tribe
-living in large Victorian house, and maintaining or adapting their tribal
-customs amid London life, a process studied and shared by their protector, a
-female anthropologist. One of their number is killed, and Pibble —
-intelligent, unassertive, tends to get assigned to off-beat cases that will
-bring no one any kudos — investigates.&lt;/p&gt;
-
-&lt;h3 id=&#34;author-comment&#34;&gt;Author Comment&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;&amp;ldquo;The Glass-sided Ants&amp;rsquo; Nest&amp;rdquo; was the working title right up to late proof
-stage, when an elderly partner at my UK publishers wandered into the editorial
-offices, picked up a cover proof and said &amp;ldquo;You know, no woman will buy a book
-with an insect in the title.&amp;rdquo; Ah well. I reverted as soon as I got the
-chance.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;awards&#34;&gt;Awards&lt;/h3&gt;
-
-&lt;p&gt;Crime Writers Association Golden Dagger (Winner) - 1968&lt;/p&gt;
-
-&lt;p&gt;Mystery Writers of America Edgar (Nominee) - 1968&lt;/p&gt;
-
-&lt;h3 id=&#34;reviews&#34;&gt;Reviews&lt;/h3&gt;
-
-&lt;p&gt;
-&lt;q&gt;
-The Glass-Sided Ant&#39;s Nest (1968) deservedly won the Crime Writers&#39;
-Association&#39;s Gold Dagger, and a more peculiar crime novel would be hard to
-find. In it, a tribe of erudite New Guinea natives are discovered grieving for
-their fallen chief in a London house. He has been battered to death with an
-owl (taken from a banister) and is found with a double-sided penny in one
-hand. The unravelling of the plot reveals a gender-switched marriage, a bowl
-of blood, and a weird smell of burning rubber, all of which provide clues.
-&lt;/q&gt;
-
-&lt;cite&gt;Independent (12 February 2012)&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-Brilliantly imaginative…wonderfully convincing.
-&lt;/q&gt;
-
-&lt;cite&gt;Observer&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-A first-class detective story by any standards…excellent, gripping,
-intelligent and original.
-&lt;/q&gt;
-
-&lt;cite&gt;Times Literary Supplement&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-A classical detective story (and a damn good one).
-&lt;/q&gt;
-
-&lt;cite&gt;The Times&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-Probably the most splendid debut in crime fiction for several years.
-&lt;/q&gt;
-
-&lt;cite&gt;Edmund Crispin, Sunday Times&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-Every conceivable boon of knowledgeablity, excitement, local colour and
-intelligent good humour.
-&lt;/q&gt;
-
-&lt;cite&gt;Sunday Times&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-Here is something different, colourful, unexpected.
-&lt;/q&gt;
-
-&lt;cite&gt;Sunday Telegraph&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-A most original plot, with a solution to match. I can&#39;t recall a situation so
-strange or an unfolding so suspenseful.
-&lt;/q&gt;
-
-&lt;cite&gt;Louis Untermeyer&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;p&gt;
-&lt;q&gt;
-Highly original...Mr. Dickinson&#39;s anthropological invention and sociological
-wit...give his novel real distinction.
-&lt;/q&gt;
-
-&lt;cite&gt;Ross Macdonald&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;h3 id=&#34;publishers&#34;&gt;Publishers&lt;/h3&gt;
-
-&lt;p&gt;Hodder &amp;amp; Stoughton, UK - 1968&lt;/p&gt;
-
-&lt;p&gt;Harper &amp;amp; Row, US - 1968&lt;/p&gt;
-
-&lt;p&gt;Panther, UK - 1969&lt;/p&gt;
-
-&lt;p&gt;Penguin, US - 1981&lt;/p&gt;
-
-&lt;p&gt;Penguin, UK - 1981&lt;/p&gt;
-
-&lt;p&gt;Arrow, UK - 1986&lt;/p&gt;
-
-&lt;p&gt;International Polygonics, UK - 1991&lt;/p&gt;
-
-&lt;p&gt;Felony &amp;amp; Mayhem, US - 2006&lt;/p&gt;
-
-&lt;p&gt;Open Road, US - 2015&lt;/p&gt;
-</description>
+      <description>About the book Set in Notting Dale, West London; remnant of &amp;ldquo;primitive&amp;rdquo; New Guinea tribe living in large Victorian house, and maintaining or adapting their tribal customs amid London life, a process studied and shared by their protector, a female anthropologist. One of their number is killed, and Pibble — intelligent, unassertive, tends to get assigned to off-beat cases that will bring no one any kudos — investigates.
+Author Comment &amp;ldquo;The Glass-sided Ants&amp;rsquo; Nest&amp;rdquo; was the working title right up to late proof stage, when an elderly partner at my UK publishers wandered into the editorial offices, picked up a cover proof and said &amp;ldquo;You know, no woman will buy a book with an insect in the title.</description>
+    </item>
+    
+    <item>
+      <title>The Weathermonger</title>
+      <link>http://peterdickinson.com/books/weathermonger/</link>
+      <pubDate>Tue, 01 Aug 2017 01:55:42 +0100</pubDate>
+      
+      <guid>http://peterdickinson.com/books/weathermonger/</guid>
+      <description>About the Book In a Britain returned to a medieval way of life following the &amp;ldquo;Changes&amp;rdquo;, which turned people against machines and electricity, Geoffrey, the local Weathermonger (chosen for his ability to summon rain when the farmers need it) and his sister are about to be drowned as &amp;ldquo;witches&amp;rdquo; for breaking the rules and maintaining an outboard engine. Following a thrilling escape to France (which has been unaffected by the Changes which have gripped Britain), Geoffrey and Sally return on a mission to discover the source of The Changes.</description>
     </item>
     
     <item>
@@ -170,59 +36,8 @@ wit...give his novel real distinction.
       <pubDate>Tue, 01 Aug 2017 01:55:42 +0100</pubDate>
       
       <guid>http://peterdickinson.com/books/foobar/</guid>
-      <description>
-
-&lt;h3 id=&#34;about-the-book-fooobar&#34;&gt;About the book FOOOBAR&lt;/h3&gt;
-
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque
-malesuada rhoncus felis quis rutrum. Phasellus lacinia urna nunc, vitae tempor
-tellus vulputate non. Donec non arcu commodo, ultrices libero quis, vestibulum
-purus. Suspendisse congue at ante id pretium. Vivamus neque libero, iaculis et
-accumsan tempus, eleifend sed orci. Sed scelerisque tristique lectus vel
-pulvinar. Ut mauris tellus, aliquet hendrerit iaculis vitae, efficitur sed
-lorem.&lt;/p&gt;
-
-&lt;h3 id=&#34;author-comment&#34;&gt;Author Comment&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;Class aptent taciti sociosqu ad litora torquent per conubia nostra, per
-inceptos himenaeos. Aenean tellus lorem, tincidunt id erat et, ultrices
-placerat magna. Aliquam lacinia hendrerit luctus. Donec malesuada lectus sit
-amet erat posuere molestie. Integer varius id neque eu pretium. Aenean
-posuere at augue semper malesuada. Nam pharetra, elit sit amet suscipit
-hendrerit, ante metus vulputate purus, non pharetra nunc mi et nisi. Fusce
-commodo enim ligula, eu accumsan dui vehicula non. Aliquam mattis nibh
-vehicula ornare mattis. Aenean vel venenatis nisi, id posuere enim. Sed ut
-nulla a nibh euismod hendrerit id at arcu.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h3 id=&#34;awards&#34;&gt;Awards&lt;/h3&gt;
-
-&lt;p&gt;some cool prize - 1981&lt;/p&gt;
-
-&lt;p&gt;some better prize - 1990&lt;/p&gt;
-
-&lt;h3 id=&#34;reviews&#34;&gt;Reviews&lt;/h3&gt;
-
-&lt;p&gt;
-&lt;q&gt;
-In feugiat aliquam elit, ultrices ultrices lorem auctor et. Sed in volutpat
-neque. Nunc ut lectus quis tortor pretium maximus eu non enim. Proin porttitor
-elit in vestibulum convallis. Praesent facilisis augue sed ex mattis, eget
-lacinia neque iaculis. Suspendisse lobortis ligula urna, id sagittis mi
-scelerisque a. Integer diam erat, dictum in risus nec, tristique gravida
-tellus. Cras id porttitor dolor, vel consequat lorem. 
-&lt;/q&gt;
-
-&lt;cite&gt;Some Newspaper&lt;/cite&gt;
-
-&lt;/p&gt;
-
-
-&lt;h3 id=&#34;publishers&#34;&gt;Publishers&lt;/h3&gt;
-
-&lt;p&gt;some publishing company - 1981&lt;/p&gt;
-
-&lt;p&gt;some other publishing company - 1990&lt;/p&gt;
-</description>
+      <description>About the book FOOOBAR Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque malesuada rhoncus felis quis rutrum. Phasellus lacinia urna nunc, vitae tempor tellus vulputate non. Donec non arcu commodo, ultrices libero quis, vestibulum purus. Suspendisse congue at ante id pretium. Vivamus neque libero, iaculis et accumsan tempus, eleifend sed orci. Sed scelerisque tristique lectus vel pulvinar. Ut mauris tellus, aliquet hendrerit iaculis vitae, efficitur sed lorem.
+Author Comment Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.</description>
     </item>
     
   </channel>

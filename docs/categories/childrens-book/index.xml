@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Childrens Book on Peter Dickinson Books</title>
+    <link>http://peterdickinson.com/categories/childrens-book/</link>
+    <description>Recent content in Childrens Book on Peter Dickinson Books</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Aug 2017 01:55:42 +0100</lastBuildDate>
+    
+	<atom:link href="http://peterdickinson.com/categories/childrens-book/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Weathermonger</title>
+      <link>http://peterdickinson.com/books/weathermonger/</link>
+      <pubDate>Tue, 01 Aug 2017 01:55:42 +0100</pubDate>
+      
+      <guid>http://peterdickinson.com/books/weathermonger/</guid>
+      <description>About the Book In a Britain returned to a medieval way of life following the &amp;ldquo;Changes&amp;rdquo;, which turned people against machines and electricity, Geoffrey, the local Weathermonger (chosen for his ability to summon rain when the farmers need it) and his sister are about to be drowned as &amp;ldquo;witches&amp;rdquo; for breaking the rules and maintaining an outboard engine. Following a thrilling escape to France (which has been unaffected by the Changes which have gripped Britain), Geoffrey and Sally return on a mission to discover the source of The Changes.</description>
+    </item>
+    
+  </channel>
+</rss>
