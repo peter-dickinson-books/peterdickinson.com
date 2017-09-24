@@ -8,17 +8,22 @@
       <div class="gr-12">
       {{.Content}}
       </div>
+      <div class="cover-container">
       {{ range .Data.Pages }}
-      <div class="gr-3 gr-6@tablet gr-6@mobile">
+      <div class="gr-2@desktop gr-4@tablet gr-4@mobile">
         <a href="{{.Permalink}}">
+          <div class="wrapper">
           {{ with index .Params.covers 0}}
-          <img src="{{ .thumbnail }}">
+          <img src="{{ .thumbnail }}" />
           {{ end }}
-          <br/>
-          {{.Title}}
+          </div>
+          <div class="title">
+            {{.Title}}
+          </div>
         </a>
       </div>
       {{ end }}
+      </div>
     </div>
   </div>
 </div>

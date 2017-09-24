@@ -20,4 +20,25 @@ section.content {
       }
     }
   }
+
+  div.book-list {
+    div.cover-container {
+      @include gridle_state ( mobile ) {
+        @include gridle_clear_each( 3, both );
+      }
+      @include gridle_state ( tablet ) {
+        @include gridle_clear_each( 3, both );
+      }
+      @include gridle_state ( desktop ) {
+        @include gridle_clear_each( 6, both );
+      }
+
+      div.wrapper {
+        padding-bottom: 1rem;
+      }
+      div.title {
+        padding-bottom: 2rem;
+      }
+    }
+  }
 }

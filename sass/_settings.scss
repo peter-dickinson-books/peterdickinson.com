@@ -14,6 +14,10 @@
     max-width : 1024px
 ) ) ;
 
+@include gridle_register_state ( desktop , (
+    min-width : 1025px,
+) ) ;
+
 @include gridle_register_state ( landscape, (
     query : "(orientation : landscape)"
 ) );
