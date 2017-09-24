@@ -1,7 +1,7 @@
 ---
 categories:
 - fiction
-- crime
+- crime and mystery
 covers:
 - thumbnail: /images/covers/the-old-english-peep-show-uk-1969-hodder-1-thumbnail.jpg
 - thumbnail: /images/covers/old-english-peep-show-us-1969-harper-1-thumbnail.jpg

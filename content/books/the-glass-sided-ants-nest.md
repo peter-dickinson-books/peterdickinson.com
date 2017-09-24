@@ -1,6 +1,7 @@
 ---
 categories:
 - fiction
+- crime and mystery
 covers:
 - thumbnail: /images/covers/Glass-Sided-Ants-Nest-jacket1.jpg
 - thumbnail: /images/covers/IPL-Ants-nest-2-231x350.jpg

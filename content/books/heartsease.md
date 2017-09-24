@@ -7,7 +7,7 @@ covers:
 - thumbnail: /images/covers/heartsease-uk---1-thumbnail.jpg
 date: 2017-08-01T01:55:42+01:00
 first_published: 1969
-subtitle: The second book in The Changes trilogy
+subtitle: The second book in _The Changes_ trilogy
 title: Heartsease
 type: books
 ---

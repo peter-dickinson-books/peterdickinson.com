@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://peterdickinson.com/books/sleepandbrother/</loc>
+    <lastmod>2017-08-01T03:44:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/the-glass-sided-ants-nest/</loc>
     <lastmod>2017-08-01T03:44:35+01:00</lastmod>
   </url>
@@ -79,7 +84,7 @@
   </url>
   
   <url>
-    <loc>http://peterdickinson.com/categories/crime/</loc>
+    <loc>http://peterdickinson.com/categories/crime-and-mystery/</loc>
     <lastmod>2017-08-01T03:44:35+01:00</lastmod>
     <priority>0</priority>
   </url>

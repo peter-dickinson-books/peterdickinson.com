@@ -1,7 +1,7 @@
 ---
 categories:
 - fiction
-- crime
+- crime and mystery
 covers:
 - thumbnail: /images/covers/the-sinful-stones-us-1970-harper-and-row-1-thumbnail.jpg
 - thumbnail: /images/covers/the-seals-uk-1988-mysterious-press-1-thumbnail.jpg

@@ -7,7 +7,7 @@ covers:
 - thumbnail: /images/covers/the-devils-children-us---1-thumbnail.jpg
 date: 2017-08-01T01:55:42+01:00
 first_published: 1970
-subtitle: The third book in The Changes trilogy
+subtitle: The third book in _The Changes_ trilogy
 title: The Devil's Children
 type: books
 ---
