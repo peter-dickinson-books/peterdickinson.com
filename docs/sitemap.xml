@@ -43,11 +43,6 @@
   </url>
   
   <url>
-    <loc>http://peterdickinson.com/books/foobar/</loc>
-    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://peterdickinson.com/</loc>
     <lastmod>2017-08-01T03:44:35+01:00</lastmod>
   </url>
@@ -97,12 +92,6 @@
   
   <url>
     <loc>http://peterdickinson.com/categories/historical/</loc>
-    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://peterdickinson.com/categories/horror/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
     <priority>0</priority>
   </url>
