@@ -58,6 +58,11 @@
   </url>
   
   <url>
+    <loc>http://peterdickinson.com/books/ironlion/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/weathermonger/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
   </url>
@@ -143,6 +148,12 @@
   
   <url>
     <loc>http://peterdickinson.com/writing/writing-novels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/categories/picture-books/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
