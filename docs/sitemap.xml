@@ -18,12 +18,22 @@
   </url>
   
   <url>
+    <loc>http://peterdickinson.com/books/greengene/</loc>
+    <lastmod>2017-08-01T03:44:35+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/lizard/</loc>
     <lastmod>2017-08-01T03:44:35+01:00</lastmod>
   </url>
   
   <url>
     <loc>http://peterdickinson.com/books/oepeepshow/</loc>
+    <lastmod>2017-08-01T03:44:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/books/poisonoracle/</loc>
     <lastmod>2017-08-01T03:44:35+01:00</lastmod>
   </url>
   
@@ -54,6 +64,11 @@
   
   <url>
     <loc>http://peterdickinson.com/books/devilschildren/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/books/gift/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
   </url>
   
@@ -158,6 +173,12 @@
   
   <url>
     <loc>http://peterdickinson.com/about/quotes/</loc>
+  </url>
+  
+  <url>
+    <loc>http://peterdickinson.com/categories/science-fiction/</loc>
+    <lastmod>2017-08-01T03:44:35+01:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
