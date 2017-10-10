@@ -1,6 +1,6 @@
 ---
 categories:
-- Crime
+- Crime and Mystery
 - Fiction
 covers:
 - thumbnail: /images/covers/lively-dead-us-2015-open-road-1-thumbnail.jpg

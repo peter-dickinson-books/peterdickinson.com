@@ -63,6 +63,11 @@
   </url>
   
   <url>
+    <loc>http://peterdickinson.com/books/bluehawk/</loc>
+    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://peterdickinson.com/books/dancingbear/</loc>
     <lastmod>2017-08-01T01:55:42+01:00</lastmod>
   </url>
@@ -130,12 +135,6 @@
   
   <url>
     <loc>http://peterdickinson.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>http://peterdickinson.com/categories/crime/</loc>
-    <lastmod>2017-08-01T01:55:42+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
