@@ -8,6 +8,8 @@ parent: faq
 Frequently Asked Questions
 ==========================
 
+test
+
 Note
 ----
 
