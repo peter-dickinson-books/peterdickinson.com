@@ -2,7 +2,7 @@ title: Peter Dickinson Books
 baseurl: http://peterdickinson.com
 languageCode: en-gb
 metaDataFormat: yaml
-publishdir: docs
+publishdir: public
 taxonomies:
   category: "categories"
   series: "series"
