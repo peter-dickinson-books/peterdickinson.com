@@ -3,6 +3,7 @@ categories:
 - fiction
 - crime and mystery
 covers:
+- thumbnail: /images/covers/old-english-peep-show-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/the-old-english-peep-show-uk-1969-hodder-1-thumbnail.jpg
 - thumbnail: /images/covers/old-english-peep-show-us-1969-harper-1-thumbnail.jpg
 - thumbnail: /images/covers/the-old-english-peep-show-us-1984-patheon-1-thumbnail.jpg
