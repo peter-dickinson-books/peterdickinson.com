@@ -18,25 +18,17 @@ December 2015, at the age of 88.
 {{% /grid %}}
 
 {{% grid desktop="3" mobile="12" tablet="12" %}}
-![the yellow room](/images/covers/OR-Yellow-Room.jpg)
+![the old english peepshow](/images/covers/old-english-peep-show-us-2015-open-road-1-thumbnail.jpg)
 {{% /grid %}}
 
 {{% grid desktop="9" mobile="12" tablet="12" %}}
 ## FEATURED BOOK
 
-**The Yellow Room Conspiracy**
+**The Old English Peep Show**
 
-Two ex-lovers, he merely getting old, she already slowly dying, hear a radio
-quiz programme about a political/financial/sexual scandal in which they were
-both involved at the time of the Suez Crisis. At the end of the first chapter
-she asks him to tell her how he killed one of the other participants. He
-replies that he'd always imagined she had done it. Who then did?
+In the second novel featuring Detective James Pibble, the mystery centres on the apparent suicide of a servant in great English country house being run as a theme park, complete with lions, by two retired WWII heroes.
 
-Her illness means that she is no longer up to prolonged serious discussion, so
-he starts to write out his memories of the time for her to read, and she
-responds with taped recordings of how she saw the same events. In this manner
-they re-tread the maze of high politics, espionage and shady property deals
-and find the answer.
+Winner of the Crime Writers Association Golden Dagger 1969
 
-{{< button href="/books/yellowroom" icon="search" text="more info">}}
+ {{< button href="/books/oepeepshow" icon="search" text="more info">}}
 {{% /grid %}}
