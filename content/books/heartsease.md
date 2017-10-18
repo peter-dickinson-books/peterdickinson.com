@@ -18,7 +18,7 @@ England changes, machines become wicked and people dangerous. Heartsease is the 
 This is a story of desperate adventuring in a world where every adult may be an enemy. Each detail is sharp and solid, so that the wildest imaginings read like sober truth; and the characters —from horse-loving Margaret through whose eyes the whole story is seen, to hall-mad Davey Gordon the witch-hunter seem as real as our everyday neighbours.
 ### Reviews
 
-{{< quote cite="Times Lite3rary Supplement" >}}His imaginative control is absolute. Scores very high marks for sheer story-telling, narrative which is packed full of suspense and pace.{{< /quote>}}
+{{< quote cite="Times Literary Supplement" >}}His imaginative control is absolute. Scores very high marks for sheer story-telling, narrative which is packed full of suspense and pace.{{< /quote>}}
 
 ### Publishers
 Gollancz, UK - 1969

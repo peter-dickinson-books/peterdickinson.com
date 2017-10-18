@@ -1,7 +1,7 @@
 ---
 categories:
 - children's books
-- fantasy
+- science fiction
 covers:
 - thumbnail: /images/covers/eva-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/eva-us-2008-laurel-leaf-1-thumbnail.jpg
