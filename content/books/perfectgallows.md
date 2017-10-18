@@ -14,7 +14,7 @@ type: books
 ### About the book
 In 1875 Arnold Wragge left the back streets of Portsmouth for the diamond fields of South Africa. Twenty years later he returned a millionaire, built himself a mansion in the Downs, and sired two daughters and a son. When the son is missing, presumed killed, in the Allied invasion of Italy, he sends for his great-great-nephew Andrew, to come from the same back streets and be inspected as a potential heir.
 
-Andrew isn't interested. He is set on a career on the stage. One of Sir Arnold’s daughters, his cousin Elspeth, equally stage-struck in her time, persuades him to take part in her proposed amateur production of The Tempest. The park is full of American soldiers preparing for the invasion of Normandy. In the middle of all the activity a stranger appears, claiming to be the missing heir.
+Andrew isn't interested. He is set on a career on the stage. One of Sir Arnold’s daughters, his cousin Elspeth, equally stage-struck in her time, persuades him to take part in her proposed amateur production of _The Tempest_. The park is full of American soldiers preparing for the invasion of Normandy. In the middle of all the activity a stranger appears, claiming to be the missing heir.
 
 Forty years later Andrew, now the famous Adrian Waring, tells the story to his partner and explains his own part in the tragedy that followed.
 ### Reviews
