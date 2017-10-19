@@ -3,6 +3,7 @@ categories:
 - fiction
 - crime and mystery
 covers:
+- thumbnail: /images/covers/sinful-stones-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/the-sinful-stones-us-1970-harper-and-row-1-thumbnail.jpg
 - thumbnail: /images/covers/the-seals-uk-1988-mysterious-press-1-thumbnail.jpg
 - thumbnail: /images/covers/the-sinful-stones-us-1991-ipl-polygonics-1-thumbnail.jpg

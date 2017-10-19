@@ -3,13 +3,13 @@ categories:
 - fiction
 - crime and mystery
 covers:
-- thumbnail: /images/covers/Glass-Sided-Ants-Nest-jacket1.jpg
+- thumbnail: /images/covers/glass-sided-ants-nest-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/IPL-Ants-nest-2-231x350.jpg
 - thumbnail: /images/covers/Penguin-crime-Ants-nest-215x350.jpg
 - thumbnail: /images/covers/Skin-Deep-FM-pb-757x1024.jpg
 - thumbnail: /images/covers/Skin-Deep-jacket-232x350.jpg
 - thumbnail: /images/covers/Arrow-Ants-nest1-214x350.jpg
-- thumbnail: /images/covers/Dickinson_GlassSidedAntsNest.jpg
+- thumbnail: /images/covers/Glass-Sided-Ants-Nest-jacket1.jpg
 date: 2017-08-01T03:44:35+01:00
 first_published: 1968
 subtitle: "The first of six novels with Detective James Pibble"

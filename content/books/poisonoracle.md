@@ -3,6 +3,7 @@ categories:
 - fiction
 - crime and mystery
 covers:
+- thumbnail: /images/covers/poison-oracle-us-2013-small-beer-1-thumbnail.jpg
 - thumbnail: /images/covers/poison-oracle-uk-1974-hodder-1-thumbnail.jpg
 - thumbnail: /images/covers/poison-oracle-uk--arrow-1-thumbnail.jpg
 date: 2017-08-01T03:44:35+01:00

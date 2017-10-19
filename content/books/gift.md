@@ -3,6 +3,7 @@ categories:
 - children's books
 - science fiction
 covers:
+- thumbnail: /images/covers/gift-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/gift-uk--gollancz-1-thumbnail.jpg
 - thumbnail: /images/covers/gift-us-1973-little-brown-1-thumbnail.jpg
 - thumbnail: /images/covers/gift-us--dell-1-thumbnail.jpg

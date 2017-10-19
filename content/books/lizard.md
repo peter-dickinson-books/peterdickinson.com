@@ -3,6 +3,7 @@ categories:
 - fiction
 - crime and mystery
 covers:
+- thumbnail: /images/covers/lizard-in-the-cup-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/lizard-in-the-cup-uk-1972-hodder-1-thumbnail.jpg
 date: 2017-08-01T03:44:35+01:00
 first_published: 1972

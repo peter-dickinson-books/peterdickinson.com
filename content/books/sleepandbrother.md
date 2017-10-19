@@ -3,6 +3,7 @@ categories:
 - fiction
 - crime and mystery
 covers:
+- thumbnail: /images/covers/sleep-and-his-brother-us-2015-open-road-1-thumbnail.jpg
 - thumbnail: /images/covers/sleep-an-his-brother-uk-1987-arrow-1-thumbnail.jpg
 - thumbnail: /images/covers/sleep-and-his-brother-us--felony-and-mayhem-1-thumbnail.jpg
 - thumbnail: /images/covers/sleep-and-his-brother-uk-1983-hamlyn-1-thumbnail.jpg
