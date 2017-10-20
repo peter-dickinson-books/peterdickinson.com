@@ -1,6 +1,7 @@
 ---
 categories:
 - children's books
+- fantasy
 
 
 covers:
