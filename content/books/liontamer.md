@@ -10,7 +10,7 @@ covers:
 date: 2017-08-01T01:55:42+01:00
 first_published: 1997
 subtitle:
-title: Lion Tamer's Daughter and Other Stories
+title: The Lion Tamer's Daughter and Other Stories
 type: books
 ---
 About the Book
