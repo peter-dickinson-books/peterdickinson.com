@@ -6,11 +6,11 @@ title: "Talks and Essays"
 A Defence of Rubbish
 ====================
 
-_“The danger of living in a golden age of children’s literature is that not enough rubbish is being produced.”
+_“The danger of living in a golden age of children’s literature is that not enough rubbish is being produced.”_
 
-“Nobody who has not spent a whole sunny afternoon under his bed rereading a pile of comics left over from the previous holidays has any real idea of the meaning of intellectual freedom.”
+_“Nobody who has not spent a whole sunny afternoon under his bed rereading a pile of comics left over from the previous holidays has any real idea of the meaning of intellectual freedom.”_
 
-“Nobody who has not written comic strips can really understand the phrase, economy of words. It’s like trying to write Paradise Lost in haiku.”_
+_“Nobody who has not written comic strips can really understand the phrase, economy of words. It’s like trying to write Paradise Lost in haiku.”_
 
 The above remarks, and a few more like them, have now haunted me for five years. They were part of a digression in a talk I gave to the 1970 Exeter conference on children’s literature, and if I’d realised then what a powder-keg I was throwing my fag-end of thought into I would have kept my trap shut. I’ve no wish to be type-cast as the man who likes rubbish. On the other hand I did (and do) believe what I said then, and what follows is a more serious attempt to formulate my ideas.
 
