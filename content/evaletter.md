@@ -2,7 +2,6 @@
 type: about
 title: "Talks and Essays"
 ---
-
 A Letter in Response to an Article About Teaching Eva
 =====================================================
 
@@ -17,4 +16,3 @@ Yours sincerely,
 Peter Dickinson
 
 _Copyright © Peter Dickinson 2001_
-_Written in response to a [Horn Book magazine article by Professor Betty Carter (2001)](http://web.archive.org/web/20150127091321/http://archive.hbook.com:80/magazine/articles/2001/sep01_carter.asp)
