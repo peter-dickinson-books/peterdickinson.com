@@ -6,11 +6,11 @@ title: "Talks and Essays"
 A Defence of Rubbish
 ====================
 
-_“The danger of living in a golden age of children’s literature is that not enough rubbish is being produced.”_
+>_“The danger of living in a golden age of children’s literature is that not enough rubbish is being produced.”_
 
-_“Nobody who has not spent a whole sunny afternoon under his bed rereading a pile of comics left over from the previous holidays has any real idea of the meaning of intellectual freedom.”_
+>_“Nobody who has not spent a whole sunny afternoon under his bed rereading a pile of comics left over from the previous holidays has any real idea of the meaning of intellectual freedom.”_
 
-_“Nobody who has not written comic strips can really understand the phrase, economy of words. It’s like trying to write Paradise Lost in haiku.”_
+>_“Nobody who has not written comic strips can really understand the phrase, economy of words. It’s like trying to write Paradise Lost in haiku.”_
 
 The above remarks, and a few more like them, have now haunted me for five years. They were part of a digression in a talk I gave to the 1970 Exeter conference on children’s literature, and if I’d realised then what a powder-keg I was throwing my fag-end of thought into I would have kept my trap shut. I’ve no wish to be type-cast as the man who likes rubbish. On the other hand I did (and do) believe what I said then, and what follows is a more serious attempt to formulate my ideas.
 
@@ -32,8 +32,8 @@ Sixth, it may not be rubbish after all. The adult eye is not necessarily a perfe
 
 I am not of course advocating a total lack of censorship. I have no doubt in my own mind that there are certain sorts of reading which are deleterious, and from which a child should be discouraged. Rubbish does not have this quality. It has absolutely no quality. It is neutral.
 
-Nor am I advocating that children should be encouraged to read rubbish. None of the ones I know need much encouragement. All I am asking is that they should not be discouraged from reading it.
+Nor am I advocating that children should be _encouraged_ to read rubbish. None of the ones I know need much encouragement. All I am asking is that they should not be discouraged from reading it.
 
 The question remains of the children whose diet appears to consist solely of rubbish. Obviously, as far as possible, they should be slightly weaned. But not totally weaned. And besides, if they did not have this diet they would not be reading at all, and in a verbal culture I think it is better that the child should read something than read nothing. And perhaps, long after the child is out of the hands of parents or teacher, the habit of reading—even the habit of reading rubbish—may somehow evoke a tendency to read things which are not rubbish. I know two or three of my contemporaries who were, by cultural standards, total philistines in their boyhood, but they used to read a considerable amount of rubbish and have now, from the habit of reading, become considerably more literate than I.
 
-Copyright © Peter Dickinson 2002
+_Copyright © Peter Dickinson 2002_

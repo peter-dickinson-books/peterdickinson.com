@@ -5,6 +5,7 @@ title: "Talks and Essays"
 
 Murder in the Manor
 ===================
+_Published in the Spring edition of_ The Armchair Detective (1991)_. Based on a talk given at Mohonk in 1990._
 
 When I was about twenty, I spent part of a summer tutoring the youngest son of a Scots earl. The boy was about fifteen and due to take a sort of milestone examination in the autumn — we all went through it. His schoolmasters at Eton had said that he was not likely to pass a single paper, and I was there to see that they were wrong. The arrangement was that, if I were satisfied with his work in the morning, he would be allowed to go out and shoot in the afternoon. The grouse season had just started. The house was an enormous pink castle. Parts of it were very old, and no doubt blood-soaked in that brutal fashion peculiar to the Scots clan history. Later, the Victorians had tripled its size and various turrets and crenellations and bastions and other baronial fal-lals.
 
@@ -20,7 +21,7 @@ I now live in a country house, a great deal smaller than Cortachy, thank heavens
 
 In 1871, the householder was Thomas Barnard, who lived there with his wife Sarah and two daughters and two sons, but no living-in servants. In 1881, the householder was a Mrs Coles, a widow, and living with her were a housekeeper, a cook, a kitchen-maid, a housemaid, a butler, and a groom. Six servants to look after one woman. She would probably have had a couple more maids coming in from the village, and at least three gardeners living in cottages up the road. Mrs Coles was the widow of a retired Army general, the younger son of a neighbouring family and so not himself immensely rich. She appears to have moved here after her husband’s death to be near her sister, who lived in a larger house a hundred yards along the main road. The sister was married to the rector of the village, a Mr Bishop, and they had nine servants living in the house, including an upper- and an under-housemaid, a footman, and a page.
 
-This is part of the reality which tends to get forgotten. You find it in the television series Upstairs, Downstairs, except that that depicted a very grand establishment. In fact, there were, right up until the Second World War, an enormous number of not particularly special houses which employed what now seems an astonishing number of servants, and at astonishingly low wages. It was upon their work and their lives that the whole myth is founded. That world could not exist without them.
+This is part of the reality which tends to get forgotten. You find it in the television series _Upstairs, Downstairs_, except that that depicted a very grand establishment. In fact, there were, right up until the Second World War, an enormous number of not particularly special houses which employed what now seems an astonishing number of servants, and at astonishingly low wages. It was upon their work and their lives that the whole myth is founded. That world could not exist without them.
 
 One of the reasons why one is not instantly aware of this fact is that there was a convention whereby servants were invisible. Just after the war, my mother moved to a modest-sized house at the centre of a village. It had an awkward-shaped triangular garden, with the house at the base and the various sheds up at the apex. A six-foot wall ran from the house to the sheds, making the awkward triangle into two thin and almost impossible further triangles. The sole function of the wall seems to have been to allow the servants to come and go, fetching coal in for the fires and so on, without being seen by the guests sitting in their deck-chairs on the long thin lawn. You can still work out how my own house was organized internally, with separate channels of communication, front and back, so that the servants could do their work without impinging on the nobs in the front rooms. Dolly Baker, who lived in the village all her life and died only last year, had worked in the house as scullery-maid in the 1920s, coming in by the day from her mother’s cottage. I once asked her to walk round the house with me and tell me what the rooms had looked like back in those days. “Oh, no,” she said. “I was never let set foot beyond the kitchen. I couldn’t tell you about the front.”
 
@@ -40,31 +41,31 @@ My house is not enormous, so there might have been as few as ten such sets of pu
 
 Another thing that is hard to imagine is the tone of voice in which servants should be spoken to: not necessarily unkindly, but as if they were potentially criminal idiots. Here are some lines which Kipling put into the mouth of a soldier discharged after the Boer War — about 1903, that makes it — and now employed as an undergardener by the local squire:
 
-_Me that ‘ave rode through the dark
+>_Me that ‘ave rode through the dark_
 
-Forty mile, often, on end,
+>_Forty mile, often, on end,_
 
-Along the Ma’ollisberg Range,
+>_Along the Ma’ollisberg Range,_
 
-With only the stars for my mark
+>_With only the stars for my mark_
 
-An’ only the night for my friend,
+>_An’ only the night for my friend,_
 
-An’ things runnin’ off as you pass,
+>_An’ things runnin’ off as you pass,_
 
-An’ things jumpin’ up in the grass,
+>_An’ things jumpin’ up in the grass,_
 
-An’ the silence, the shine an’ the size
+>_An’ the silence, the shine an’ the size_
 
-Of the ‘igh, unexpressible skies —
+>_Of the ‘igh, unexpressible skies —_
 
-I am takin’ some letters almost
+>_I am takin’ some letters almost_
 
-As much as a mile to the post,
+>_As much as a mile to the post,_
 
-An’ “Mind you come back with the change!”
+>_An’ “Mind you come back with the change!”_
 
-Me!_
+>_Me!_
 
 This is no exaggeration. Dolly Baker told me that when she was sent with letters to the post — and the mailbox is less than fifty yards from our gate — she had to come back and report that she had done what she had been told.
 
@@ -116,5 +117,4 @@ So you have this mythic world — mythic even in its reality but ten times more 
 
 I will leave you to work out for yourself why always in Plato’s cave behind us, though practically never in the wavering shadows on the wall before us, that second victim, led away to the altar of the scaffold, turns out to be the butler.
 
-Copyright © Peter Dickinson 1991
-Published in the Spring edition of The Armchair Detective 1991. Based on a talk given at Mohonk in 1990
+_Copyright © Peter Dickinson 1991_
