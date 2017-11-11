@@ -18,17 +18,19 @@ December 2015, at the age of 88.
 {{% /grid %}}
 
 {{% grid desktop="3" mobile="12" tablet="12" %}}
-![the old english peepshow](/images/covers/old-english-peep-show-us-2015-open-road-1-thumbnail.jpg)
+![perfect gallows](/images/covers/perfect-gallows-us-2015-open-road-1-thumbnail.jpg)
 {{% /grid %}}
 
 {{% grid desktop="9" mobile="12" tablet="12" %}}
 ## FEATURED BOOK
 
-**The Old English Peep Show**
+**Perfect Gallows**
 
-In the second novel featuring Detective James Pibble, the mystery centres on the apparent suicide of a servant in great English country house being run as a theme park, complete with lions, by two retired WWII heroes.
+In 1875 Arnold Wragge left the back streets of Portsmouth for the diamond fields of South Africa. Twenty years later he returned a millionaire, built himself a mansion in the Downs, and sired two daughters and a son. When the son is missing, presumed killed, in the Allied invasion of Italy, he sends for his great-great-nephew Andrew, to come from the same back streets and be inspected as a potential heir.
 
-Winner of the Crime Writers Association Golden Dagger 1969
+Andrew isn't interested. He is set on a career on the stage. One of Sir Arnold’s daughters, his cousin Elspeth, equally stage-struck in her time, persuades him to take part in her proposed amateur production of _The Tempest_. The park is full of American soldiers preparing for the invasion of Normandy. In the middle of all the activity a stranger appears, claiming to be the missing heir.
 
- {{< button href="/books/oepeepshow" icon="search" text="more info">}}
+Forty years later Andrew, now the famous Adrian Waring, tells the story to his partner and explains his own part in the tragedy that followed.
+
+ {{< button href="/books/perfectgallows" icon="search" text="more info">}}
 {{% /grid %}}
