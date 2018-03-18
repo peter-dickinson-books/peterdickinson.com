@@ -18,19 +18,20 @@ December 2015, at the age of 88.
 {{% /grid %}}
 
 {{% grid desktop="3" mobile="12" tablet="12" %}}
-![perfect gallows](/images/covers/perfect-gallows-us-2015-open-road-1-thumbnail.jpg)
+![The Lizard in the Cup - cover](/images/covers/lizard-in-the-cup-us-2015-open-road-1-thumbnail.jpg)
 {{% /grid %}}
 
 {{% grid desktop="9" mobile="12" tablet="12" %}}
 ## FEATURED BOOK
 
-**Perfect Gallows**
+**The Lizard in the Cup**
 
-In 1875 Arnold Wragge left the back streets of Portsmouth for the diamond fields of South Africa. Twenty years later he returned a millionaire, built himself a mansion in the Downs, and sired two daughters and a son. When the son is missing, presumed killed, in the Allied invasion of Italy, he sends for his great-great-nephew Andrew, to come from the same back streets and be inspected as a potential heir.
+Thanassi Thanatos (the tycoon first met in Sleep and his Brother) invites Ex-Chief Inspector Pibble to his Greek Island hideout to play role of Mafia in war-game style simulation of business opponents’ likely actions. Pibble suggests elimination of Thanatos himself and then investigates the possibility for real. That’s why Jimmy Pibble joins five other men and a beautiful girl around a conference table in a lavish Mediterranean villa.
 
-Andrew isn't interested. He is set on a career on the stage. One of Sir Arnold’s daughters, his cousin Elspeth, equally stage-struck in her time, persuades him to take part in her proposed amateur production of _The Tempest_. The park is full of American soldiers preparing for the invasion of Normandy. In the middle of all the activity a stranger appears, claiming to be the missing heir.
+But what have two drunken Greek monks to do with murder? And how does a penniless English artist fit into the scene? Jimmy Pibble will find out – but not before someone has died…
 
 Forty years later Andrew, now the famous Adrian Waring, tells the story to his partner and explains his own part in the tragedy that followed.
 
- {{< button href="/books/perfectgallows" icon="search" text="more info">}}
+
+ {{< button href="/books/lizard" icon="search" text="more info">}}
 {{% /grid %}}
