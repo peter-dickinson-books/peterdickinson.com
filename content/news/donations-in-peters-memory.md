@@ -21,8 +21,10 @@ Peter](https://www.justgiving.com/remember/244297/Peter-Dickinson), linking a
 donation page for each of these three charities.
 <!--more-->
 
+{{< indent >}}
 If you would like to make a donation to one or more of these charities in
 Peter’s memory, just click on the logo below.  That will take you through to
 the donation page for that charity.
+{{< /indent>}}
 
 Many thanks from Peter’s family.

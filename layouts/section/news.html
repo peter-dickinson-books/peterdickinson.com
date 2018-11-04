@@ -4,16 +4,16 @@
     <p>{{.Content}}</p>
   </div>
   {{ range .Data.Pages }}
-  <div class="gr-9 gr-10@tablet gr-12@mobile">
-    <h2><a href="{{.Permalink}}">{{.Title}}</a></h2>
+  <div class="gr-9 gr-8@tablet gr-12@mobile">
+    <h2><a href="{{.RelPermalink}}">{{.Title}}</a></h2>
     <p><strong>{{.Date.Format "2 January 2006"}}</strong></p>
     <p>{{.Summary}}</p>
     {{ if .Truncated }}
-    <p><a href="{{.Permalink}}">Read more...</a>
+    <p><a href="{{.RelPermalink}}">Read more...</a>
     {{ end }}
   </div>
-  <div class="gr-3 gr-2@tablet gr-12@mobile">
-    {{ $permalink := .Permalink }}
+  <div class="gr-3 gr-4@tablet gr-12@mobile">
+    {{ $permalink := .RelPermalink }}
     {{ range .Params.images }}
     <p>
       <a href="{{$permalink}}"><img src="{{.}}" /></a>

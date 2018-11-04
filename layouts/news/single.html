@@ -1,14 +1,14 @@
 {{ partial "header.html" . }}
 <div class="container book-list">
 
-  <div class="gr-9 gr-9@tablet gr-12@mobile">
+  <div class="gr-9 gr-6@tablet gr-12@mobile">
       <h1>{{.Title}}</h1>
       <p><strong>{{.Date.Format "2 January 2006"}}</strong></p>
       <p>
       {{.Content}}
       </p>
   </div>
-  <div class="gr-3 gr-3@tablet gr-12@mobile">
+  <div class="gr-3 gr-6@tablet gr-12@mobile">
     {{ range .Params.images }}
     <p>
       <img src="{{.}}" />
