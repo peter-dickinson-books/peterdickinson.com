@@ -18,7 +18,7 @@ The news of Peter Dickinson’s death on 16 December 2015 was widely covered in 
 
 [*The Times*](https://www.thetimes.co.uk/article/peter-dickinson-f3bbq5979l9)
 
-There were also obituaries in [*The New York Times*](https://www.nytimes.com/2015/12/18/arts/peter-dickinson-author-whose-unpredictable-plots-blurred-genres-dies-at-88.html), *School Library Journal*, [*Le Figaro*](http://www.lefigaro.fr/livres/2015/12/22/03005-20151222ARTFIG00202-disparition-de-l-ecrivain-anglais-peter-dickinson.php) and [*The Hindu*](https://www.thehindu.com/todays-paper/tp-national/novelist-peter-dickinson-dead/article8006252.ece) as well as shorter pieces in many other news outlets all round the world.
+There were also obituaries in [*The New York Times*](https://www.nytimes.com/2015/12/18/arts/peter-dickinson-author-whose-unpredictable-plots-blurred-genres-dies-at-88.html), [*School Library Journal*](https://www.slj.com/?detailStory=peter-dickinson-dies-at-88), [*Le Figaro*](http://www.lefigaro.fr/livres/2015/12/22/03005-20151222ARTFIG00202-disparition-de-l-ecrivain-anglais-peter-dickinson.php) and [*The Hindu*](https://www.thehindu.com/todays-paper/tp-national/novelist-peter-dickinson-dead/article8006252.ece) as well as shorter pieces in many other news outlets all round the world.
 
 <!--more-->
 
