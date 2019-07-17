@@ -6,11 +6,11 @@
   "dependencies": {
     "font-awesome": "^4.7.0",
     "gridle": "^2.0.48",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-csso": "^3.0.0",
-    "gulp-sass": "^3.1.0",
+    "gulp-sass": "^4.0.2",
     "gulp-touch": "^1.0.1",
-    "merge-stream": "^1.0.1"
+    "merge-stream": "^2.0.0"
   },
   "scripts": {
     "build": "gulp build",

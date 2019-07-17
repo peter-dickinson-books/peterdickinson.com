@@ -25,12 +25,12 @@ gulp.task('sass', function(){
     .pipe(gulp.dest('./static/css'));
 });
 
-gulp.task('css', ['sass', 'fontawesome'])
+gulp.task('css', gulp.series('sass', 'fontawesome'))
 
 gulp.task('watch', function() {
     gulp.watch('./sass/**/*.scss', ['sass']);
     gulp.watch('./js/**/*.js', ['js']);
 });
 
-gulp.task('build', ['js', 'css']);
-gulp.task('default', [ 'build', 'watch' ]);
+gulp.task('build', gulp.series('js', 'css'));
+gulp.task('default', gulp.series('build', 'watch'));
