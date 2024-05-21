@@ -5,7 +5,11 @@ title: "Contact us"
 
 Contact & Queries
 ==========
-General queries about Peter Dickinson and his writing can be addressed to his literary agent:
+General queries about Peter Dickinson and his writing can be e-mailed to us at [estate@peterdickinson.com](mailto:estate@peterdickinson.com).
+
+Permissions & Rights
+==========
+Please contact Peter Dickinson's literary agent:
 
      United Agents,
      12-26 Lexington Street,
