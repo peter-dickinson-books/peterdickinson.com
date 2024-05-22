@@ -5,7 +5,7 @@ title: "Contact us"
 
 Contact & Queries
 ==========
-General queries about Peter Dickinson and his writing can be e-mailed to us at [estate@peterdickinson.com](mailto:estate@peterdickinson.com).
+For information about Peter Dickinson, his life and his writing: e-mail [estate@peterdickinson.com](mailto:estate@peterdickinson.com).
 
 Permissions & Rights
 ==========
