@@ -17,7 +17,8 @@ sounds like this:
 Chack-chack-chack-chak. (Pause for thought.) Chackchackchackchackchackchack…
 
 
-Peter typing 1970s
+![peter typing 1970s](/images/peter70s.jpg)
+
 
 Peter did not have typist’s hands. He said his fingers were like a sculptor's,
 thick and stubby. He typed from the elbow, two fingers, hitting the keys so
