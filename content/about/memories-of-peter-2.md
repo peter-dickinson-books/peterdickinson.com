@@ -84,7 +84,7 @@ often they would be completely new. The boys always wanted a battle, so there
 were lots of those. It was a brilliant way to keep four lively kids quiet on
 long car journeys. He was our in-car entertainment.
 
-Peter reading to the boys at bedtime
+Peter reading to John and James at bedtime
 
 Around this time Peter started tinkering with what he believed to be an
 original idea for a crime novel, working on the kitchen table after supper.
