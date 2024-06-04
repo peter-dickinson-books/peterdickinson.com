@@ -15,7 +15,7 @@ of a typewriter. It’s coming from up a stairway or behind a study door, and it
 sounds like this:
 
 Chack-chack-chack-chak. (Pause for thought.) Chackchackchackchackchackchack…
-Peter typing
+
 
 Peter typing 1970s
 
