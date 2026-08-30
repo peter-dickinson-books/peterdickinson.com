@@ -11,11 +11,12 @@ Permissions & Rights
 ==========
 Please contact Peter Dickinson's literary agent:
 
+     Emily Talbot,
      United Agents,
      12-26 Lexington Street,
      London WC1F 0LE,
      UK
 
-e-mail: [info@unitedagents.co.uk](mailto:info@unitedagents.co.uk)
+e-mail: [ETalbot@unitedagents.co.uk](mailto:info@unitedagents.co.uk)
 
 website: [www.unitedagents.co.uk/](https://www.unitedagents.co.uk)
