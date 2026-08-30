@@ -136,4 +136,12 @@
       content: "\2715";
     }
   }
+
+  // Inline SVG icon (replaces old Font Awesome <i> glyph)
+  .social-icon {
+    width: 1.3rem;
+    height: 1.3rem;
+    fill: currentColor;
+    vertical-align: -0.15em;
+  }
 }

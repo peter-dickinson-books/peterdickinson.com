@@ -1,8 +1,0 @@
-title: Peter Dickinson Books
-baseurl: http://www.peterdickinson.com
-languageCode: en-gb
-metaDataFormat: yaml
-publishdir: public
-taxonomies:
-  category: "categories"
-  series: "series"

@@ -1,7 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ or site.LanguageCode "en" }}">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-4254672-1"></script>
   <script>
@@ -11,9 +12,10 @@
 
     gtag('config', 'UA-4254672-1');
   </script>
-  <title>{{ .Title }} | Peter Dickinson Books</title>
-  <link rel="stylesheet" href="/css/font-awesome.min.css" />
-  <link rel="stylesheet" href="/css/main.css" />
+  <title>{{ with .Title }}{{ . }} | {{ end }}Peter Dickinson Books</title>
+  {{ $opts := dict "transpiler" "libsass" "outputStyle" "compressed" "enableSourceMap" (not hugo.IsProduction) }}
+  {{ $css := resources.Get "scss/main.scss" | toCSS $opts | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}" integrity="{{ $css.Data.Integrity }}" />
 </head>
 <body>
   <header>

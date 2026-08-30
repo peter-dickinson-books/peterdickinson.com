@@ -30,8 +30,7 @@ $quote-font-size: 1.6rem;
 $border-radius: .2rem;
 $border-width: .1rem;
 
-@import 'settings';
-@include gridle_generate_classes ( );
+@import 'grid';
 
 @import 'reset';
 @import 'mixins';

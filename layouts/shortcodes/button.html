@@ -1,1 +1,1 @@
-<a href="{{ .Get "href" }}" class="btn">{{ with .Get "icon" }}<i class="fa fa-{{.}}"></i> {{ end }}{{ .Get "text" }}</a>
+<a href="{{ .Get "href" }}" class="btn">{{ with .Get "icon" }}{{ partial "icon.html" . }} {{ end }}{{ .Get "text" }}</a>

@@ -1,6 +1,9 @@
-yarn-error.log
 public/
+resources/_gen/
+.hugo_build.lock
 node_modules/
+yarn-error.log
 hugo.exe
 cover-generator.exe
 docs/
+.DS_Store

@@ -1,0 +1,14 @@
+baseURL: https://www.peterdickinson.com/
+title: Peter Dickinson Books
+languageCode: en-gb
+publishDir: public
+
+taxonomies:
+  category: categories
+
+markup:
+  goldmark:
+    renderer:
+      # Content and shortcodes emit raw HTML (grid/quote/button divs, inline
+      # markup in _index.md). Blackfriday allowed this; Goldmark needs opt-in.
+      unsafe: true

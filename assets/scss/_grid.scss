@@ -1,0 +1,62 @@
+// Lightweight responsive grid — replaces the abandoned "gridle" framework.
+// 12 columns, 20px gutters (10px each side), flexbox with wrapping.
+//
+// Breakpoints match gridle's old "states" exactly:
+//   mobile  : max-width 480px
+//   tablet  : 481px – 1024px
+//   desktop : min-width 1025px
+// Classes: .gr-1 … .gr-12  and  .gr-N@mobile / .gr-N@tablet / .gr-N@desktop
+
+$grid-columns: 12;
+$grid-gutter: 20px;
+
+%grid-cell {
+  box-sizing: border-box;
+  min-height: 1px;
+  padding-left: $grid-gutter / 2;
+  padding-right: $grid-gutter / 2;
+}
+
+@mixin grid-width($i) {
+  flex: 0 0 percentage($i / $grid-columns);
+  max-width: percentage($i / $grid-columns);
+}
+
+// Any element that lays out grid cells becomes a flex row.
+.container,
+.cover-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+// The cover grid is always a full-width block inside another .container.
+.cover-container {
+  flex: 1 1 100%;
+}
+
+[class^="gr-"],
+[class*=" gr-"] {
+  @extend %grid-cell;
+}
+
+@for $i from 1 through $grid-columns {
+  .gr-#{$i} { @include grid-width($i); }
+}
+
+@media screen and (max-width: 480px) {
+  @for $i from 1 through $grid-columns {
+    .gr-#{$i}\@mobile { @include grid-width($i); }
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 1024px) {
+  @for $i from 1 through $grid-columns {
+    .gr-#{$i}\@tablet { @include grid-width($i); }
+  }
+}
+
+@media screen and (min-width: 1025px) {
+  @for $i from 1 through $grid-columns {
+    .gr-#{$i}\@desktop { @include grid-width($i); }
+  }
+}

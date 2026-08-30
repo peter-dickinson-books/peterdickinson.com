@@ -9,7 +9,15 @@ footer {
   min-height: 10rem;
   padding-top: 2rem;
 
-  i.fa {
-    font-size: 2rem;
+  .social-icons {
+    margin-top: 0.5rem;
+  }
+
+  .social-icon {
+    width: 2rem;
+    height: 2rem;
+    margin: 0 0.3rem;
+    fill: currentColor;
+    vertical-align: middle;
   }
 }

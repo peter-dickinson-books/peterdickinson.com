@@ -3,7 +3,7 @@
   <div class="gr-12 gr-12@tablet gr-12@mobile">
     <p>{{.Content}}</p>
   </div>
-  {{ range .Data.Pages }}
+  {{ range .Pages }}
   <div class="gr-9 gr-8@tablet gr-12@mobile">
     <h2><a href="{{.RelPermalink}}">{{.Title}}</a></h2>
     <p><strong>{{.Date.Format "2 January 2006"}}</strong></p>
@@ -21,4 +21,5 @@
     {{ end }}
   </div>
   {{ end }}
+</div>
 {{ partial "footer.html" . }}

@@ -1,8 +1,8 @@
 <ul class="side-menu">
   <li><a href="/books/">ALL BOOKS</a></li>
- {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-    {{ with $.Site.GetPage (printf "/categories/%s" $key) }}
-    <li><a href="{{ .URL }}">{{ .Title }}</a></li>
+ {{ range $key, $taxonomy := site.Taxonomies.categories }}
+    {{ with site.GetPage (printf "/categories/%s" $key) }}
+    <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
     {{ end }}
   {{ end }}
 </ul>

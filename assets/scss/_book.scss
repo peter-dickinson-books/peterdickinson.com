@@ -13,9 +13,9 @@ section.content {
     div.covers {
       margin-top: 2.5rem;
 
-      @include gridle_state( mobile ) {
+      @media screen and (max-width: 480px) {
         img.cover {
-              max-width: 7.5rem;
+          max-width: 7.5rem;
         }
       }
     }
@@ -23,17 +23,9 @@ section.content {
 
   div.book-list,
   div.book-taxonmy {
+    // Cover grid — flex-wrap handles row breaks, so the old
+    // gridle "clear every Nth cell" hacks are no longer needed.
     div.cover-container {
-      @include gridle_state ( mobile ) {
-        @include gridle_clear_each( 3, both );
-      }
-      @include gridle_state ( tablet ) {
-        @include gridle_clear_each( 3, both );
-      }
-      @include gridle_state ( desktop ) {
-        @include gridle_clear_each( 6, both );
-      }
-
       div.wrapper {
         padding-bottom: 1rem;
       }

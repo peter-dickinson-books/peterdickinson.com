@@ -1,4 +1,6 @@
-<span></span>
+---
+title: ""
+---
 {{% grid desktop="6" mobile="12" tablet="12" %}}
 Peter Dickinson is a celebrated author. He won multiple prizes,
 published almost 60 books and has been translated into 53 languages.
